@@ -1,7 +1,7 @@
 # Jenkins-Zero-To-Hero 
 [Special Thanks to Abhishek Veeramalla (iam-veeramalla)]
 
-<img src="url" alt="alternatetext">
+<img src="https://github.com/vaibhav-gosavi/ALL_CICD/blob/main/java-maven-sonar-argocd-helm-k8s/images/Screenshot%202023-08-27%20172336.png" alt="alternatetext">
 
 
 Here are the step-by-step details to set up an end-to-end Jenkins pipeline for a Java application using SonarQube, Argo CD and Kubernetes:
@@ -180,6 +180,9 @@ http://<ec2-instance-public-ip>:8080/restart
 
 The docker agent configuration is now successful.
 
+### This is how the jenkins pipeline execution would look like 
+<img src="" alt="alternatetext">
 
-
+### This is how The Deployment would look like in the Argo CD 
+<img src="" alt="alternatetext">
 
