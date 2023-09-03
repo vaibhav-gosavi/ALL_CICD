@@ -1,5 +1,5 @@
 # Jenkins-Zero-To-Hero 
-[Special Thanks to Abhishek Veeramalla (iam-veeramalla)]
+[Special Thanks to Abhishek Veeramalla (iam-veeramalla:https://github.com/iam-veeramalla)]
 
 <img src="https://github.com/vaibhav-gosavi/ALL_CICD/blob/main/java-maven-sonar-argocd-helm-k8s/images/Screenshot%202023-08-27%20172336.png" alt="alternatetext">
 
